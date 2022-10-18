@@ -1,6 +1,4 @@
 var num1 = document.getElementById('k1');
-
-//ilk hesap makinam
 var num2 = document.getElementById('k2');
 var num3 = document.getElementById('k3');
 var num4 = document.getElementById('k4');
