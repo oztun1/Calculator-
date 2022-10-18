@@ -1,0 +1,60 @@
+body{
+    background: #4e2e4e;
+  }
+  .basis{
+    background: #ebcfce79;
+    border: 3px solid rgb(240, 230, 235);
+    border-radius: 10px;
+    width: 435px;
+    height: 490px;
+    margin: 0 auto;
+  }
+  
+  .pane{
+    border-radius: 10px;
+    border: 3px solid rgb(220, 132, 227);
+    background: #ebebeb;
+    width: 400px;
+    height: 100px;
+    margin: 30px 18px;
+  }
+  
+  .buttons{
+    display: inline-block;
+    background: #e5b9f1;
+    font-size: 36px;
+    margin: 10px 10px;
+    width: 85px;
+    height: 60px;
+    border-radius: 10px;
+    float: left;
+    font-family: 'Anton', sans-serif;
+  }
+  
+  
+  #ravno{
+    background: rgb(220, 132, 227);
+    height: 138px;
+    float: right;
+    margin-right: 24px;
+  }
+  
+  .buttons:focus{
+    outline: none;
+  }
+  
+  #value1{
+    width: 395px;
+    height: 95px;
+    border-radius: 5px;
+    text-align: center;
+    background: #ebebeb;
+    font-size: 30px;
+    font-family: 'Anton', sans-serif;
+  }
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button, input:focus {
+     -webkit-appearance: none;
+     outline: none;
+  }
+  
